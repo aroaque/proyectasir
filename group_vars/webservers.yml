@@ -1,0 +1,5 @@
+dbhost: "terraform-20200616101957823500000001.cjlq73zn9vsb.eu-west-1.rds.amazonaws.com:3306"
+dbname: "asir"
+dbuser: "aroa"
+dbpasswd: "aroa1234"
+s3code: "asir-aroa-code"
